@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap");
+
+.orbitron-black {
+  font-family: "Orbitron", sans-serif;
+}
+
+.glow-red {
+  text-shadow: 0 0 52px rgba(255, 0, 0, 0.7), 0 0 86px rgba(255, 0, 0, 0.8),
+    0 0 12px rgba(255, 0, 0, 0.5), 0 0 84px rgba(255, 0, 0, 0.3);
+}
+
+.glow-hero {
+  text-shadow: 0 0 92px rgba(255, 0, 0, 0.5), 0 0 36px rgba(255, 0, 0, 0.1),
+    0 0 12px rgba(255, 0, 0, 0.1), 0 0 84px rgba(255, 0, 0, 0.1);
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #ffff00, #ff3300, #ff0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.orbitron-gradient {
+  font-family: "Orbitron", sans-serif;
+  background: linear-gradient(90deg, #ffff00, #ff6600, #ff0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* text-shadow: 0 0 2px rgba(255, 0, 0, 0.2); */
+}
