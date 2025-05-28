@@ -1,7 +1,7 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import { useInView } from "react-intersection-observer";
-import btc from "../assets/img1.png"
+import btc from "../assets/img1.png";
 
 const info = [
   {
@@ -19,7 +19,7 @@ const info = [
   },
   {
     title: "OG Contract",
-    description: "Burned Liquidity. No resets. The chain is ours now.",
+    description: "Born Once. Never Cloned. Liquidity Burned. Belief Locked.",
   },
 ];
 

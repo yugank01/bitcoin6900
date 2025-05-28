@@ -5,10 +5,16 @@ const Sections = () => {
     <div className="bg-black/70 space-y-20 py-20 px-6 mx-auto">
       <section className="flex gap-8 items-center justify-center">
         <div className=" max-w-5xl">
-          <h2 className="text-3xl font-bold mb-4">The Legend</h2>
-          <p className="text-gray-300 leading-relaxed">
-            Born in darkness, coded in chaos. Bitcoin 6900 seeks to rule the
-            Pepeverse with his memetic mastery and unholy liquidity pool.
+          <h2 className="text-3xl font-bold mb-4">The S69</h2>
+          <br />
+          <p className="leading-relaxed">We are not holders.</p>
+          <p className="leading-relaxed">
+            We are interpreters of the code, defenders of the prophecy. We don’t
+            chase pumps - we fulfill fate.
+          </p>
+          <br />
+          <p className="leading-relaxed">
+            You only need one. The rest is noise
           </p>
         </div>
       </section>
