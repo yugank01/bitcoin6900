@@ -1,4 +1,4 @@
-import banner from "../assets/video1.mp4";
+import banner from "../assets/video1.MOV";
 import logo from "../assets/logo.png"
 
 const Hero = () => {
