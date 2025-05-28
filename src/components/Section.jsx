@@ -3,9 +3,9 @@ import videoFile from "../assets/banner.mp4";
 const Sections = () => {
   return (
     <div className="bg-black/70 space-y-20 py-20 px-6 mx-auto">
-      <section className="flex gap-8 items-center justify-center">
+      <section className="flex gap-8 items-center justify-center orbitron-black">
         <div className=" max-w-5xl">
-          <h2 className="text-3xl font-bold mb-4">The S69</h2>
+          <h2 className="text-3xl font-bold mb-4">Legend</h2>
           <br />
           <p className="leading-relaxed">We are not holders.</p>
           <p className="leading-relaxed">

@@ -5,10 +5,6 @@ import btc from "../assets/img1.png";
 
 const info = [
   {
-    title: "50% of Bitcoin6900 Burned",
-    description: "50M Remain Scarce. Capped. Cult-backed.",
-  },
-  {
     title: "S69",
     description:
       "Satoshi Reborn as a Cyborg. Back from the future to finish the mission.",
@@ -16,10 +12,6 @@ const info = [
   {
     title: "a signal",
     description: "No Whitepaper. Just Prophecy. Not a product",
-  },
-  {
-    title: "OG Contract",
-    description: "Born Once. Never Cloned. Liquidity Burned. Belief Locked.",
   },
 ];
 

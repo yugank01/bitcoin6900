@@ -1,14 +1,14 @@
 import stack from "../assets/video3.mp4";
 
 const info = [
-  // {
-  //   title: "Buy tax",
-  //   description: "0%",
-  // },
-  // {
-  //   title: "Sell tax",
-  //   description: "0%",
-  // },
+  {
+    title: "OG Contract",
+    description: "Born Once. Never Cloned. Liquidity Burned. Belief Locked.",
+  },
+  {
+    title: "50% of Bitcoin6900 Burned",
+    description: "50M Remain Scarce. Capped. Cult-backed.",
+  },
   {
     title: "contract safety",
     description: "RENOUNCED",
@@ -41,7 +41,7 @@ export default function TokenomicsSection() {
                 loop
                 muted
                 playsInline
-                className="w-[75%] md:w-[300px] max-w-full rounded-lg shadow-5xl brightness-110 contrast-125 saturate-150"
+                className="w-[75%] md:w-[350px] max-w-full rounded-lg shadow-5xl brightness-110 contrast-125 saturate-150"
               />
             </div>
 
