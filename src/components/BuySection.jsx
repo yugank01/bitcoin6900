@@ -6,7 +6,7 @@ import ethscan from "../assets/ethscan.svg";
 
 export default function BuySection() {
   return (
-    <div className="bg-black/40 text-center py-8 px-4">
+    <div className="bg-black/70 text-center py-8 px-4">
       {/* Button Row */}
       <div className="flex flex-wrap justify-center gap-4 mb-6">
         <button className="px-5 py-2 border-3 border-red-600 text-red-600 md:text-3xl font-extrabold orbitron-black rounded-xl hover:bg-red-600 hover:text-black transition-all duration-200 tracking-wider glow-red">

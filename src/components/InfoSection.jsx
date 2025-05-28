@@ -29,7 +29,7 @@ const InfoSection = () => {
   return (
     <section
       ref={ref}
-      className="w-full bg-black/40 px-4 py-16 text-red-600 font-bold text-sm sm:text-base tracking-wide"
+      className="w-full bg-black/70 px-4 py-16 text-red-600 orbitron-black font-bold text-sm sm:text-base tracking-wide"
     >
       <div className="mx-auto flex flex-col-reverse lg:flex-row gap-8 lg:gap-0">
         {/* LEFT: TEXT */}
@@ -39,10 +39,10 @@ const InfoSection = () => {
               key={index}
               className="flex flex-col sm:flex-row gap-4 sm:gap-6 border-t border-red-600 pt-4"
             >
-              <div className="sm:w-[25%] uppercase mb-2 sm:mb-0 glow-red">
+              <div className="sm:w-[25%] orbitron-gradient uppercase mb-2 sm:mb-0 glow-red">
                 {item.title}
               </div>
-              <div className="sm:w-[75%] whitespace-pre-line glow-red text-xl sm:text-2xl">
+              <div className="sm:w-[75%] text-white whitespace-pre-line glow-red text-xl sm:text-2xl">
                 {inView ? (
                   <Typewriter
                     words={[item.description]}

@@ -3,7 +3,7 @@ import logo from "../assets/logo.png"
 
 const Hero = () => {
   return (
-    <section className="relative bg-black/40 text-white flex flex-col items-center justify-center text-center">
+    <section className="relative bg-black/70 text-white flex flex-col items-center justify-center text-center">
       {/* <h1 className="orbitron-gradient glow-hero font-[900] text-3xl sm:text-[9rem] mt-10 relative z-10 md:top-8 tracking-tight leading-tight">
         BITCOIN 6900
       </h1> */}

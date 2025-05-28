@@ -2,7 +2,7 @@ import video from "../assets/video2.mp4";
 
 export default function BitcoinSection() {
   return (
-    <section className="relative flex flex-col items-center justify-center bg-black/40 text-white">
+    <section className="relative flex flex-col items-center justify-center bg-black/70 text-white">
       {/* Content Container */}
       <div className="relative z-20 w-full max-w-8xl mx-auto px-6 flex flex-col md:flex-row justify-between h-full">
         {/* Left Text */}
@@ -26,7 +26,7 @@ export default function BitcoinSection() {
           />
         </div>
       </div>
-      <div className="orbitron-black text-red-600 md:text-6xl font-[900] tracking-wider glow-red max-w-5xl text-center">
+      <div className="orbitron-black md:text-6xl font-[900] tracking-wider glow-red max-w-5xl text-center">
         A 100% COMMUNITY-RUN MEMECOIN
       </div>
     </section>
