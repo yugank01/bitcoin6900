@@ -15,7 +15,7 @@ const Sections = () => {
 
       <section className="text-center">
         <video
-          className="mx-auto rounded-xl shadow-md w-full max-w-3xl"
+          className="mx-auto rounded-xl shadow-md w-full max-w-4xl"
           controls
           muted
           autoPlay

@@ -30,7 +30,7 @@ export default function TokenomicsSection() {
       <div className="relative z-10 max-w-7xl w-full flex flex-col md:flex-row justify-between gap-12">
         {/* Left: Tokenomics text + stacked images */}
         <div className="w-full flex flex-col items-start">
-          <h1 className="text-[12vw] orbitron-black glow-red font-extrabold text-red-600 uppercase leading-none tracking-tight mb-6">
+          <h1 className="text-5xl sm:text-8xl lg:text-[10rem] orbitron-black glow-red font-extrabold text-red-600 text-center uppercase leading-none tracking-tight mb-6">
             Tokenomics
           </h1>
           <div className="flex flex-col md:flex-row justify-between items-center gap-8 w-full">
